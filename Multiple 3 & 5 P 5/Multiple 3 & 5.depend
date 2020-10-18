@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600512731 source:c:\users\mohamed\desktop\project euler\multiple 3 & 5\main.c
+	<stdio.h>
+	<stdlib.h>
+

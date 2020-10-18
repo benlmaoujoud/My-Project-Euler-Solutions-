@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600534474 source:c:\users\mohamed\desktop\project euler\smallest multiple\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
