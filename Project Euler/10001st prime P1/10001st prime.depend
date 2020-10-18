@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600593381 source:c:\users\mohamed\desktop\project euler\10001st prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
