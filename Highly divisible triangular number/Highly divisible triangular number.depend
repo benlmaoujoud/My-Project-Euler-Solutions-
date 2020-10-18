@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600680179 source:c:\users\mohamed\desktop\project euler\highly divisible triangular number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
