@@ -8,7 +8,7 @@ bool prime(long n);
 int main()
 {
 int i,j;
-i=97;
+i=1000000;
 int sum;
 int flag=0;
 while(i>=2 && flag==0)
